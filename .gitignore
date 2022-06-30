@@ -1,5 +1,6 @@
 # folder
-.idea
+.idea/
+node_modules
 
 # Binaries for programs and plugins
 *.exe
@@ -7,6 +8,8 @@
 *.dll
 *.so
 *.dylib
+
+.env
 
 # Test binary, built with `go test -c`
 *.test
